@@ -1,8 +1,8 @@
-to build run (inside project folder)
+how to build (inside project folder) ..
 
 `$ docker build -t spearwolf/ghost-app .`
 
-to test and play within container
+test and play within the container ..
 
 `$ docker run -ti --rm spearwolf/ghost-app /bin/bash`
 
